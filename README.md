@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mahmoud !
+- 👀 I’m interested in Technology and Finance
+- 🌱 I’m currently learning Machine Learning and Data Visualization
+- 💞️ I’m looking to collaborate on small projects to learn new things 
+- 📫 Visit my website : Mahmoud-jaha.github.io
